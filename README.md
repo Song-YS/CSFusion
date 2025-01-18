@@ -1,2 +1,2 @@
-#CSFusion​
-来源代码将在论文发表后提供。
+# CSFusion​
+The source code will be made available upon the publication of the paper.
